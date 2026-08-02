@@ -28,8 +28,8 @@ hestester was the program that was used following the mounting of the hall effec
 
 ## motorkeypadandstir
 
- motorkeypadandstir is the program that combines the sift and the stir mechanism that was explained.
+motorkeypadandstir is the program that combines the sift and the stir mechanism that was explained.
 
 ## stirsiftkeypadOLED
 
-motorkeypadandstir with the OLED interface that I had explained.
+stirsiftkeypadOLED combines motorkeypadandstir with the OLED interface that I had explained.
