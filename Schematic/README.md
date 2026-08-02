@@ -1,1 +1,3 @@
+This schematic contains the basic wiring and electronic connections that were used on a breadboard for this project following the process of soldering header pins to different modules, like the MP1584 buck converter. 
 
+The electronic components used (excluding the mounting materials) were a 5x1.2V battery holder with 5 2200 mAh NIMH rechargeable batteries, a latching SPST switch, an MP1584 5V buck converter module, a micro SG90, an AATC AZ-1440S-PN piezoelectric buzzer, a 2NNNN2A BJT, a type 130 DC Brushed Motor, a Schottky Diode, an IRLZ44N MOSFET, 2 momentary push normally open switches, a 100 kohm linear potentiometer, an SSD1306 OLED, a DRV5033, the adafruit 3x4 matrix keypad, a 10k ohm;150 ohm; and 220 ohm resistor, and an arduino nano r4.
