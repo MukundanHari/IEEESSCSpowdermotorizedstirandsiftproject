@@ -5,3 +5,7 @@ This is the youtube link for both of these mechanisms. https://youtu.be/IxwyaBGy
 # Project Submission Video.
 
 This youtube video shows every other mechanism, and the main ones in the previous link, as this is the video that we used to submit our project to the 2026 IEEE SSCS Arduino Contest. https://www.youtube.com/watch?v=rW43rCkaodo 
+
+# Mechanism Explanation
+
+If you would like to understand how each mechanism works, go to the `/Arduino` tab, as I explain what each software file does, and how it relates to each mechanism in the project.
