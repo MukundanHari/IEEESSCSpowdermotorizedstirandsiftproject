@@ -16,7 +16,11 @@ dcmotorwithkeypad is the program that combines the aforementioned program with t
 
 ## finalized_hall_feedback
 
-finalized_hall_feedback is the final program for this project, which integrates all of the mechanisms that are intended, which are the OLED displaying the status of the stir/sift, the rotating text for our team, as well as the entry space for the keypad time which ticks down and follows the rules of the previous program (the push stopping the keypad). There is also a PI control system on the stir mechanism to maintain a consistent rotation speed regardless of the resistance to the motor, which is done by using the hall effect sensor (HES) as an RPM tracker and attaching a magnet on the stir fan. This was programmed and tuned to maintain whatever speed, either lowering or raising the duty cycle if there is too less or too much resistance to the motor. Additionally, there is a potentiometer that changes the baseline speed that the control system seeks to maintain, and a buzzer that uses morse code to say the stir/sift mechanisms if the respective momentary pushes are pressed to help identify the mechanisms for disabled folk.
+finalized_hall_feedback is the final program for this project, which integrates all of the mechanisms that are intended, which are the OLED displaying the status of the stir/sift, the rotating text for our team, as well as the entry space for the keypad time which ticks down and follows the rules of the previous program (the push stopping the keypad). 
+
+There is also a PI control system on the stir mechanism to maintain a consistent rotation speed regardless of the resistance to the motor, which is done by using the hall effect sensor (HES) as an RPM tracker and attaching a magnet on the stir fan. This was programmed and tuned to maintain whatever speed, either lowering or raising the duty cycle if there is too less or too much resistance to the motor. 
+
+Additionally, there is a potentiometer that changes the baseline speed that the control system seeks to maintain, and a buzzer that uses morse code to say the stir/sift mechanisms if the respective momentary pushes are pressed to help identify the mechanisms for disabled folk.
 
 ## hestester
 
