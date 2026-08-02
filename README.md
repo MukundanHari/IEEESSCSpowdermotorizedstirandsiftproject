@@ -10,4 +10,4 @@ This repository contains the design, code, schematics, CAD, and documentation fo
 - `/Images` – Photos of the completed project
 - `/Videos` – Project demonstrations
 
-The mechanisms in the project are explained in `/Arduino`
+The mechanisms in the project are explained in the README.MD of `/Arduino`.
