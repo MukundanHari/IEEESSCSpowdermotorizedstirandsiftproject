@@ -1,6 +1,6 @@
 # IEEE SSCS Arduino Protein Shake Motorized Stir & Sifter
 
-This repository contains the design, code, schematics, CAD, and documentation for our Arduino-based protein shake automation system, developed by a team of three for the 2026 IEEE Solid-State Circuits Society (SSCS) Arduino Contest.
+This repository contains the design, code, schematics, CAD, and documentation for our Arduino-based protein shake automation system, developed by a team of three for the 2026 IEEE Solid-State Circuits Society (SSCS) Arduino Contest. This project applies to any powder, but is marketed specifically for gym-goers.
 
 ## Repository Structure
 
