@@ -1,1 +1,7 @@
-# This is the folder for the stir & hall effect RPM and PI control system and the sift mechanisms that are shown. The youtube video shows every other mechanism, which I cannot attach to github as it is too large a file. This video shows the OLED screen, potentiometer, buzzer, and keypad mechanisms.  https://www.youtube.com/watch?v=rW43rCkaodo 
+# Stir and Sift mechanism.
+
+This is the youtube link for both of these mechanisms. https://youtu.be/IxwyaBGyW9c
+
+# Project Submission Video.
+
+This youtube video shows every other mechanism, and the main ones in the previous link, as this is the video that we used to submit our project to the 2026 IEEE SSCS Arduino Contest. https://www.youtube.com/watch?v=rW43rCkaodo 
