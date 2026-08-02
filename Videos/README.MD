@@ -1,1 +1,1 @@
-# This is the folder for the main mechanisms that are shown. If there are mechanisms you wish to see, the youtube video of our submission is linked here. https://www.youtube.com/watch?v=rW43rCkaodo 
+# This is the folder for the stir & hall effect RPM and PI control system and the sift mechanisms that are shown. The youtube video shows every other mechanism, which I cannot attach to github as it is too large a file. This video shows the OLED screen, potentiometer, buzzer, and keypad mechanisms.  https://www.youtube.com/watch?v=rW43rCkaodo 
