@@ -12,7 +12,7 @@ Controls the stirring motor using a momentary push button. The motor rotates whi
 
 ## dcmotorwithkeypad
 
-Adds keypad functionality to the stirring system. Entering a time and pressing **#** runs the stirrer for the specified duration. Pressing ****** before starting clears the entry. During operation, pressing the momentary push button pauses the countdown until it is released.
+Adds keypad functionality to the stirring system. Entering a time and pressing **#** runs the stirrer for the specified duration. Pressing * before starting clears the entry. During operation, pressing the momentary push button pauses the countdown until it is released.
 
 ## finalized_hall_feedback
 
