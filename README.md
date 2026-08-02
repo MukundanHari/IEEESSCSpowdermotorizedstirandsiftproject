@@ -9,4 +9,3 @@ This repository contains the design, code, schematics, CAD, and documentation fo
 - `/CAD` – CAD model images and mechanical design
 - `/Images` – Photos of the completed project
 - `/Videos` – Project demonstrations
-- `/Documentation` – Design notes and build documentation
