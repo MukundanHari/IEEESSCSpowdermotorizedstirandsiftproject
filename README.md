@@ -11,3 +11,5 @@ This repository contains the design, code, schematics, CAD, and documentation fo
 - `/Videos` – Project demonstrations
 
 The mechanisms in the project are explained in the README.MD of `/Arduino`.
+
+This project could be improved by implementing a PCB that encompasses the user interface elements, and can be soldered and then mounted onto the shaker itself instead of requiring a breadboard, greatly improving its convenience.
