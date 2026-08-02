@@ -5,7 +5,7 @@ This repository contains the design, code, schematics, CAD, and documentation fo
 ## Repository Structure
 
 - `/Arduino` – Arduino source code
-- `/Schematics` – Electrical schematics and wiring diagrams
+- `/Schematics` – Electrical schematic and wiring diagram.
 - `/CAD` – CAD model images and mechanical design
 - `/Images` – Photos of the completed project
 - `/Videos` – Project demonstrations
